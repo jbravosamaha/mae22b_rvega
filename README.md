@@ -9,7 +9,7 @@ Repositorio para la Clase MÉTODOS DE ANÁLISIS ESPACIAL, UAI, 2022A.
 ### EQUIPO
 
 * Ricardo Vega, Diseñador, Artista: rivegam@uc.cl.
-* Javiera Bravo, Ayuante: 
+* Javiera Bravo, MSc. Biología Marina. Ayuante: j.bravosamaha@gmail.com
 
 ### PROGRAMAS Y HERRAMIENTAS
 
